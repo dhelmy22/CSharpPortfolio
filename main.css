@@ -1,0 +1,48 @@
+
+.main{
+    background-color: dimgray;
+    width: 85%;
+    margin: auto;
+}
+header{
+    background-color: dimgray;
+    width: 85%;
+    margin: auto;
+    text-align: center;
+
+}
+
+footer{
+    background-color: dimgray;
+    width: 85%;
+    margin: auto;
+    text-align: center;
+}
+.main{
+
+}
+.pic{
+
+}
+.about{
+
+}
+.projects{
+
+margin: auto;
+position: relative;
+}
+.cardBlockOne{
+    display: inline;
+    margin: auto;
+}
+.cardBlockTwo{
+    display: inline;
+    margin: auto;
+}
+.resume{
+
+}
+.contact{
+
+}
