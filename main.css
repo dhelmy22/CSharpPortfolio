@@ -1,7 +1,8 @@
 
 .main{
-    background-color: dimgray;
+    background-image: url(./assets/coding\ background2.jpeg);
     width: 85%;
+    height: 95%;
     margin: auto;
 }
 header{
@@ -12,12 +13,29 @@ header{
 
 }
 
+.icon{
+    width: 10px;
+    height: 10px;
+}
+
 footer{
     background-color: dimgray;
     width: 85%;
     margin: auto;
     text-align: center;
+    text-align: center;
 }
+.card{
+    transition: 2s;
+}
+.card :hover{
+    transform: rotateY(180deg);
+    transition: 2s;
+  }
+  .resPic{
+width: 250px;
+height: 250px;
+  }
 .main{
 
 }
@@ -25,7 +43,9 @@ footer{
 
 }
 .about{
-
+background-color: floralwhite;
+width: 90%;
+margin: auto;
 }
 .projects{
 
@@ -33,11 +53,15 @@ margin: auto;
 position: relative;
 }
 .cardBlockOne{
-    display: inline;
+    width: 85%;
     margin: auto;
 }
 .cardBlockTwo{
-    display: inline;
+    width: 85%;
+    margin: auto;
+}
+.cardBlockThree{
+    width: 85%;
     margin: auto;
 }
 .resume{
