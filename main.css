@@ -3,13 +3,14 @@
 .main{
     /*background-color: black;*/
     background-image: url(./assets/hacker.jpeg);
-    width: 85vw;
+    width: 100vw;
     height: 95%;
     margin: auto;
 }
 header{
-    background-color: grey;
-    width: 85vw;
+    background-color: black;
+    color: white;
+    width: 100vw;
     margin: auto;
     text-align: center;
 
@@ -21,11 +22,12 @@ header{
 }
 
 footer{
-    background-color: dimgray;
-    width: 85vw;
+    background-color: black;
+    color: white;
+    width: 100vw;
     margin: auto;
     text-align: center;
-    text-align: center;
+    
 }
 .card{
     transition: 2s;
@@ -47,7 +49,7 @@ height: 250px;
 
 }
 .about{
-width: 80%;
+width: 100vw;
 display: inline;
 align-items: center;
 margin: auto;
@@ -65,22 +67,25 @@ margin: auto;
 position: relative;
 }
 .cardBlockOne{
-    width: 85%;
+    width: 100vw;
     margin: auto;
+    
     
 }
 .cardBlockTwo{
-    width: 85%;
+    width: 100vw;
     
     margin: auto;
 }
 .cardBlockThree{
-    width: 85%;
+    width: 100vw;
     margin: auto;
+    
 }
 .cardBlockFour{
-    width: 85%;
+    width: 100vw;
     margin: auto;
+    
 }
 .resume{
 
