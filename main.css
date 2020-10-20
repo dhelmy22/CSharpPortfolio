@@ -3,6 +3,7 @@
 .main{
     /*background-color: black;*/
     background-image: url(./assets/hacker.jpeg);
+    background-position: center;
     width: 100vw;
     height: 95%;
     margin: auto;
@@ -55,6 +56,10 @@ align-items: center;
 margin: auto;
 
 }
+#modBut{
+    width: 85%;
+    
+}
 .skills{
     position: relative;
     margin: auto;
@@ -62,28 +67,28 @@ margin: auto;
 
 
 .projects{
-
+width: 85vw;
 margin: auto;
 position: relative;
 }
 .cardBlockOne{
-    width: 100vw;
+    width: 85vw;
     margin: auto;
     
     
 }
 .cardBlockTwo{
-    width: 100vw;
+    width: 85vw;
     
     margin: auto;
 }
 .cardBlockThree{
-    width: 100vw;
+    width: 85vw;
     margin: auto;
     
 }
 .cardBlockFour{
-    width: 100vw;
+    width: 85vw;
     margin: auto;
     
 }
